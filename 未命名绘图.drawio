@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T03:40:42.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TQ5u-sBBSc28FK0ckBle" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T03:55:39.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FZ157sklKWMZBlHb9-Yd" version="21.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2314" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e6qZxmBoFs9CczBX9xe4-1" value="车辆" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;dashPattern=8 8;shadow=1;labelPosition=center;align=left;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="460" width="120" height="290" as="geometry" />
+        <mxCell id="e6qZxmBoFs9CczBX9xe4-1" value="车辆" style="verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;dashPattern=8 8;shadow=1;labelPosition=center;align=center;labelBorderColor=none;labelBackgroundColor=none;horizontal=1;fontColor=default;overflow=visible;strokeOpacity=100;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
